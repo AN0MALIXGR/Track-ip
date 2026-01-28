@@ -16,6 +16,6 @@ git clone https://github.com/AN0MALIXGR/Track-ip.git
 # Masuk ke folder
 cd Track-ip
 
-# Lihat isi
-ls -la
+#Running Script
+python3 track.py
 ```
